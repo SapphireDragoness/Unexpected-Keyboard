@@ -10,6 +10,7 @@
     <item>arab_pc</item>
     <item>arab_pc_ckb</item>
     <item>arab_pc_ir</item>
+    <item>arab_pc_tn</item>
     <item>armenian_ph_am</item>
     <item>beng_national</item>
     <item>beng_provat</item>
@@ -31,6 +32,7 @@
     <item>latn_qwerty_cz</item>
     <item>latn_qwerty_es</item>
     <item>latn_qwerty_hu</item>
+    <item>latn_qwerty_it</item>
     <item>latn_qwerty_lv</item>
     <item>latn_qwerty_no</item>
     <item>latn_qwerty_pl</item>
@@ -57,6 +59,7 @@
     <item>Arabic PC</item>
     <item>Kurdish (کوردی)</item>
     <item>Persian PC</item>
+    <item>Tunisian</item>
     <item>Armenian</item>
     <item>বাংলা (জাতীয়)</item>
     <item>বাংলা (প্রভাত)</item>
@@ -78,6 +81,7 @@
     <item>QWERTY (Czech)</item>
     <item>QWERTY (Español)</item>
     <item>QWERTY (Magyar)</item>
+    <item>QWERTY (custom)</item>
     <item>QWERTY (Latvian)</item>
     <item>QWERTY (Norwegian)</item>
     <item>QWERTY (Polski)</item>
@@ -104,6 +108,7 @@
     <item>@xml/arab_pc</item>
     <item>@xml/arab_pc_ckb</item>
     <item>@xml/arab_pc_ir</item>
+    <item>@xml/arab_pc_tn</item>
     <item>@xml/armenian_ph_am</item>
     <item>@xml/beng_national</item>
     <item>@xml/beng_provat</item>
@@ -125,6 +130,7 @@
     <item>@xml/latn_qwerty_cz</item>
     <item>@xml/latn_qwerty_es</item>
     <item>@xml/latn_qwerty_hu</item>
+    <item>@xml/latn_qwerty_it</item>
     <item>@xml/latn_qwerty_lv</item>
     <item>@xml/latn_qwerty_no</item>
     <item>@xml/latn_qwerty_pl</item>

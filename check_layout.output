@@ -11,6 +11,9 @@ Layout includes some ASCII punctuation but not all, missing: ", %, ', +, ,, ., :
 # arab_pc_ir
 Layout includes some ASCII punctuation but not all, missing: ", %, ', ,, /, ;, <, =, >, ?, [, \, ], `, {, |, }
 1 warnings
+# arab_pc_tn
+Layout includes some ASCII punctuation but not all, missing: !, ', +, ;, ?, \, |
+1 warnings
 # armenian_ph_am
 Layout doesn't define some important keys, missing: f11_placeholder, f12_placeholder
 1 warnings
@@ -74,6 +77,8 @@ Layout doesn't define some important keys, missing: f11_placeholder, f12_placeho
 # latn_qwerty_es
 0 warnings
 # latn_qwerty_hu
+0 warnings
+# latn_qwerty_it
 0 warnings
 # latn_qwerty_lv
 0 warnings
