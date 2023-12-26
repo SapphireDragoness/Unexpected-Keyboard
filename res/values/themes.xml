@@ -175,4 +175,23 @@
     <item name="emoji_button_bg">?colorKeyActivated</item>
     <item name="emoji_color">#000000</item>
   </style>
+  <style name="Sapphire" parent="@style/BaseTheme">
+    <item name="android:isLightTheme">true</item>
+    <item name="colorKeyboard">#0F52BA</item>
+    <item name="colorKey">#e0f2f1</item>
+    <item name="colorKeyActivated">#0B3594</item>
+    <item name="colorLabel">#000000</item>
+    <item name="colorLabelActivated">#ffffff</item>
+    <item name="colorLabelLocked">#6964FF</item>
+    <item name="secondaryLightOffset">0.0</item>
+    <item name="colorSubLabel">#082567</item>
+    <item name="keyBorderWidth">0.0dip</item>
+    <item name="keyBorderWidthActivated">0.0dip</item>
+    <item name="keyBorderColorLeft">#00f0f0f0</item>
+    <item name="keyBorderColorTop">#00f0f0f0</item>
+    <item name="keyBorderColorRight">#00eeeeee</item>
+    <item name="keyBorderColorBottom">#00eeeeee</item>
+    <item name="emoji_button_bg">?colorKeyActivated</item>
+    <item name="emoji_color">#000000</item>
+  </style>
 </resources>
